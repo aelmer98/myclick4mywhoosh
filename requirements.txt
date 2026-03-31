@@ -1,0 +1,6 @@
+asyncio
+bleak
+keyboard
+pystray
+Pillow
+winreg
